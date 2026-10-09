@@ -1,0 +1,27 @@
+build/
+tools/
+*.pmf
+
+# audio
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.opus
+*.m4a
+*.aac
+*.aiff
+*.wma
+*.at3
+
+# video
+*.mov
+*.mp4
+*.m4v
+*.mkv
+*.avi
+*.webm
+*.mpg
+*.mpeg
+*.wmv
+*.flv
